@@ -1,0 +1,2 @@
+# fullProject
+full
